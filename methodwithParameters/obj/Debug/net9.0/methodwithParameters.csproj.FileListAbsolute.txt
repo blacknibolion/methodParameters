@@ -1,0 +1,14 @@
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\bin\Debug\net9.0\methodwithParameters.exe
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\bin\Debug\net9.0\methodwithParameters.deps.json
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\bin\Debug\net9.0\methodwithParameters.runtimeconfig.json
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\bin\Debug\net9.0\methodwithParameters.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\bin\Debug\net9.0\methodwithParameters.pdb
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.AssemblyInfoInputs.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.AssemblyInfo.cs
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.csproj.CoreCompileInputs.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\refint\methodwithParameters.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.pdb
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\methodwithParameters.genruntimeconfig.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\methodwithParameters\obj\Debug\net9.0\ref\methodwithParameters.dll
