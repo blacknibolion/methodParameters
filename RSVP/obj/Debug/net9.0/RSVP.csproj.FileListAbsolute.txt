@@ -12,3 +12,4 @@ C:\Users\Blacknibolion\Documents\repo\methodParameters\rsvp\obj\Debug\net9.0\ref
 C:\Users\Blacknibolion\Documents\repo\methodParameters\rsvp\obj\Debug\net9.0\RSVP.pdb
 C:\Users\Blacknibolion\Documents\repo\methodParameters\rsvp\obj\Debug\net9.0\RSVP.genruntimeconfig.cache
 C:\Users\Blacknibolion\Documents\repo\methodParameters\rsvp\obj\Debug\net9.0\ref\RSVP.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\rsvp\obj\Debug\net9.0\RSVP.sourcelink.json

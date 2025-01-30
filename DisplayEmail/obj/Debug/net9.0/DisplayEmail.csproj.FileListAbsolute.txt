@@ -1,0 +1,15 @@
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\bin\Debug\net9.0\DisplayEmail.exe
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\bin\Debug\net9.0\DisplayEmail.deps.json
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\bin\Debug\net9.0\DisplayEmail.runtimeconfig.json
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\bin\Debug\net9.0\DisplayEmail.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\bin\Debug\net9.0\DisplayEmail.pdb
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.AssemblyInfoInputs.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.AssemblyInfo.cs
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.csproj.CoreCompileInputs.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.sourcelink.json
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\refint\DisplayEmail.dll
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.pdb
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\DisplayEmail.genruntimeconfig.cache
+C:\Users\Blacknibolion\Documents\repo\methodParameters\displayemail\obj\Debug\net9.0\ref\DisplayEmail.dll
